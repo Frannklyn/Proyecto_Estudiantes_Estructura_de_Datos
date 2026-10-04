@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Franklin Roberto",
+    "apellido": "Salavarria Pazmiño",
+    "email": "fsalavarriap@unemi.edu.ec",
+    "carnet": "EST2026001",
+    "notas": {
+      "Estructura de datos": [
+        20
+      ],
+      "Modelamiento de software": [
+        18
+      ]
+    },
+    "materias": [
+      "Estructura de datos",
+      "Modelamiento de software"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Lionel Andres",
+    "apellido": "Messi Cuccittini",
+    "email": "meeeesi@gmail.com",
+    "carnet": "EST2026002",
+    "notas": {},
+    "materias": []
+  }
+]
